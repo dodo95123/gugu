@@ -1,5 +1,5 @@
 version: 0.0
 os: linux
 files:
-  - source:  /Users/memory_member/gugu
+  - source:  /
     destination: /home/ec2-user/build/ 
